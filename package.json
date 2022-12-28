@@ -1,5 +1,5 @@
 {
-  "name": "ts-prune",
+  "name": "ts-prune-2",
   "version": "0.10.4",
   "description": "Find potentially unused exports in your Typescript project with zero configuration.",
   "keywords": [
