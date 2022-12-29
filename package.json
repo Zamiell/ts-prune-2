@@ -13,7 +13,9 @@
   "author": "Nadeesha Cabral <n@nadeesha.me>",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "bin": "./lib/index.js",
+  "bin": {
+    "ts-prune": "./lib/index.js"
+  },
   "files": [
     "/lib"
   ],
